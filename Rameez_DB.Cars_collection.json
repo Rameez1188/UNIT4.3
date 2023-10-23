@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6535c1bd415c250d153d2120"
+  },
+  "brand": "Lamborghini",
+  "models": [
+    {
+      "name": "Aventador",
+      "topSpeed": "350 km/h",
+      "price": "$393,695"
+    },
+    {
+      "name": "Huracan",
+      "topSpeed": "325 km/h",
+      "price": "$261,274"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535c1bd415c250d153d2121"
+  },
+  "brand": "Porsche",
+  "models": [
+    {
+      "name": "911 Carrera",
+      "topSpeed": "330 km/h",
+      "price": "$97,400"
+    },
+    {
+      "name": "Cayenne",
+      "topSpeed": "265 km/h",
+      "price": "$67,500"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535c1bd415c250d153d2122"
+  },
+  "brand": "Mercedes-Benz",
+  "models": [
+    {
+      "name": "S-Class",
+      "topSpeed": "250 km/h",
+      "price": "$94,250"
+    },
+    {
+      "name": "E-Class",
+      "topSpeed": "240 km/h",
+      "price": "$54,250"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6535c1bd415c250d153d2123"
+  },
+  "brand": "BMW",
+  "models": [
+    {
+      "name": "7 Series",
+      "topSpeed": "250 km/h",
+      "price": "$86,800"
+    },
+    {
+      "name": "5 Series",
+      "topSpeed": "250 km/h",
+      "price": "$54,200"
+    }
+  ]
+}]
